@@ -1,0 +1,5 @@
+{
+  "name": "FiveM Emote Menu",
+  "description": "A FiveM-style NUI emote menu prototype with animations, categories, and search.",
+  "requestFramePermissions": []
+}
